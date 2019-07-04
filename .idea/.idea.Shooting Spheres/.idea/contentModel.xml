@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota_addons\Shooting Spheres" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CameraController.cs" t="Include" />
+        <e p="ChangeColorTarget.cs" t="Include" />
+        <e p="CollisionData.cs" t="Include" />
+        <e p="DestroyOnHitTarget.cs" t="Include" />
+        <e p="DistanceUI.cs" t="Include" />
+        <e p="GameManager.cs" t="Include" />
+        <e p="ITargetable.cs" t="Include" />
+        <e p="Projectile.cs" t="Include" />
+        <e p="ProjectileShotUI.cs" t="Include" />
+        <e p="SpawnObjectsOnHitTarget.cs" t="Include" />
+        <e p="SphereSpawner.cs" t="Include" />
+        <e p="SphereSpawnUI.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Shooting Spheres.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\mojo3\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mojo3\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Shooting Spheres.-1491519488.00" t="ExcludeRecursive" />
+  </component>
+</project>
